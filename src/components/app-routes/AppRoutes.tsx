@@ -5,7 +5,7 @@ import AppWrapper from "../app-wrapper/AppWrapper";
 export default class AppRoutes extends React.Component<{}, {}> {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={"/wollet-web"}>
         <Routes>
           <Route path={"/"} element={<AppWrapper />} />
         </Routes>
