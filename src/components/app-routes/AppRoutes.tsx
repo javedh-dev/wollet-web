@@ -1,15 +1,15 @@
 import React from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import AppWrapper from "../app-wrapper/AppWrapper";
 
 export default class AppRoutes extends React.Component<{}, {}> {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path={"/"} element={<AppWrapper />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
