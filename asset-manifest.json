@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.40ce4bfe.chunk.css",
-    "main.js": "/static/js/main.40593110.chunk.js",
-    "main.js.map": "/static/js/main.40593110.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bc78abea.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bc78abea.js.map",
-    "static/js/2.42618ef3.chunk.js": "/static/js/2.42618ef3.chunk.js",
-    "static/js/2.42618ef3.chunk.js.map": "/static/js/2.42618ef3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.40ce4bfe.chunk.css.map": "/static/css/main.40ce4bfe.chunk.css.map",
-    "static/js/2.42618ef3.chunk.js.LICENSE.txt": "/static/js/2.42618ef3.chunk.js.LICENSE.txt"
+    "main.css": "/wollet-web/static/css/main.40ce4bfe.chunk.css",
+    "main.js": "/wollet-web/static/js/main.40593110.chunk.js",
+    "main.js.map": "/wollet-web/static/js/main.40593110.chunk.js.map",
+    "runtime-main.js": "/wollet-web/static/js/runtime-main.16af5f44.js",
+    "runtime-main.js.map": "/wollet-web/static/js/runtime-main.16af5f44.js.map",
+    "static/js/2.42618ef3.chunk.js": "/wollet-web/static/js/2.42618ef3.chunk.js",
+    "static/js/2.42618ef3.chunk.js.map": "/wollet-web/static/js/2.42618ef3.chunk.js.map",
+    "index.html": "/wollet-web/index.html",
+    "static/css/main.40ce4bfe.chunk.css.map": "/wollet-web/static/css/main.40ce4bfe.chunk.css.map",
+    "static/js/2.42618ef3.chunk.js.LICENSE.txt": "/wollet-web/static/js/2.42618ef3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc78abea.js",
+    "static/js/runtime-main.16af5f44.js",
     "static/js/2.42618ef3.chunk.js",
     "static/css/main.40ce4bfe.chunk.css",
     "static/js/main.40593110.chunk.js"
