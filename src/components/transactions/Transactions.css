@@ -1,0 +1,8 @@
+.transaction-row {
+  line-height: 3rem;
+}
+
+th,
+td {
+  white-space: nowrap;
+}
